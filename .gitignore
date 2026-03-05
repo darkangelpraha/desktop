@@ -297,3 +297,6 @@ cython_debug/
 sdk_ref/
 
 .ruff_cache/
+
+# OpenMemory - IDE/Assistant specific rules
+.cursor/rules/openmemory.mdc
